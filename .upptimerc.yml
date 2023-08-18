@@ -3,10 +3,10 @@ owner: macalegin-admin # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  - name: Website (https://www.macaleginelectronics.com)
+  - name: Website (www.macaleginelectronics.com)
     url: https://www.macaleginelectronics.com
     icon: https://www.macaleginelectronics.com/favicon.ico
-  - name: Blog (https://www.macaleginelectronics.com/blog)
+  - name: Blog (www.macaleginelectronics.com/blog)
     url: https://www.macaleginelectronics.com/blog
     icon: https://www.macaleginelectronics.com/favicon.ico
   - name: Web Apps (my.macalegin.com)
@@ -20,10 +20,11 @@ sites:
 
 status-website:
   cname: status.macalegin.com
-  logoUrl: https://www.macaleginelectronics.com/img/Macalegin_Logo.png
+  logoUrl: https://www.macaleginelectronics.com/img/macalegin_icon.png
   name: Macalegin Electronics Status
   introTitle: Macalegin Electronics Servers Status
   introMessage: The status of Macalegin Electronics web services
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
