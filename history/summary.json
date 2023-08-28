@@ -78,19 +78,19 @@
     "url": "https://cloud.macalegin.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 706,
-    "timeDay": 1889,
-    "timeWeek": 842,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 691,
+    "timeDay": 1429,
+    "timeWeek": 805,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-08-28": 10
+      "2023-08-28": 20
     }
   }
 ]
