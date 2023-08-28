@@ -58,35 +58,39 @@
     "url": "https://portal.macalegin.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "mac-manager-portal-macalegin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 254,
-    "timeWeek": 228,
-    "timeMonth": 223,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 225,
+    "timeWeek": 224,
+    "timeMonth": 221,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   },
   {
     "name": "Cloud Storage (cloud.macalegin.com)",
     "url": "https://cloud.macalegin.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 512,
-    "timeWeek": 495,
-    "timeMonth": 473,
-    "timeYear": 473,
-    "dailyMinutesDown": {}
+    "time": 706,
+    "timeDay": 1889,
+    "timeWeek": 842,
+    "timeMonth": 706,
+    "timeYear": 706,
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   }
 ]
