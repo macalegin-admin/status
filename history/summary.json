@@ -40,9 +40,9 @@
     "url": "https://my.macalegin.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "web-apps-my-macalegin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 260,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "MacManager (portal.macalegin.com)",
@@ -81,12 +83,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 690,
     "timeDay": 448,
-    "timeWeek": 773,
+    "timeWeek": 462,
     "timeMonth": 690,
     "timeYear": 690,
     "dailyMinutesDown": {
