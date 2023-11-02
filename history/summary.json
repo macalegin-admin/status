@@ -4,19 +4,19 @@
     "url": "https://www.macaleginelectronics.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "website-www-macaleginelectronics-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 445,
-    "timeWeek": 663,
-    "timeMonth": 425,
-    "timeYear": 420,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.74%",
+    "time": 421,
+    "timeDay": 483,
+    "timeWeek": 645,
+    "timeMonth": 428,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-11-02": 1
+      "2023-11-02": 281
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.macaleginelectronics.com/blog",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "blog-www-macaleginelectronics-com-blog",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1989,
-    "timeDay": 197,
-    "timeWeek": 1594,
-    "timeMonth": 1777,
-    "timeYear": 1989,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "79.86%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.74%",
+    "time": 2013,
+    "timeDay": 2062,
+    "timeWeek": 1886,
+    "timeMonth": 1845,
+    "timeYear": 2013,
     "dailyMinutesDown": {
-      "2023-11-02": 9
+      "2023-11-02": 290
     }
   },
   {
