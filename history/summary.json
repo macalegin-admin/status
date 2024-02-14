@@ -53,10 +53,10 @@
     "url": "https://my.macalegin.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "web-apps-my-macalegin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 279,
@@ -65,6 +65,7 @@
     "timeMonth": 304,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2024-02-14": 1,
       "2024-01-14": 9,
       "2023-09-09": 9
     }
