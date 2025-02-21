@@ -6,9 +6,6 @@ sites:
   - name: Website (www.macaleginelectronics.com)
     url: https://www.macaleginelectronics.com
     icon: https://www.macaleginelectronics.com/favicon.ico
-  - name: Blog (www.macaleginelectronics.com/blog)
-    url: https://www.macaleginelectronics.com/blog
-    icon: https://www.macaleginelectronics.com/favicon.ico
   - name: Web Apps (my.macalegin.com)
     url: https://my.macalegin.com
     icon: https://www.macaleginelectronics.com/favicon.ico
