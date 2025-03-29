@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 406,
-    "timeDay": 318,
-    "timeWeek": 326,
-    "timeMonth": 383,
+    "timeDay": 447,
+    "timeWeek": 322,
+    "timeMonth": 385,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2024-12-29": 39,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 293,
-    "timeDay": 261,
-    "timeWeek": 284,
-    "timeMonth": 298,
+    "timeDay": 308,
+    "timeWeek": 276,
+    "timeMonth": 299,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-01-31": 28,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 324,
-    "timeDay": 302,
-    "timeWeek": 297,
-    "timeMonth": 322,
+    "timeDay": 398,
+    "timeWeek": 310,
+    "timeMonth": 325,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-02-26": 59,
@@ -105,8 +105,7 @@
       "2024-04-23": 160,
       "2024-04-19": 11,
       "2024-04-09": 10,
-      "2024-04-06": 57,
-      "2024-03-29": 8
+      "2024-04-06": 57
     }
   },
   {
@@ -115,15 +114,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.37%",
     "time": 610,
-    "timeDay": 510,
+    "timeDay": 611,
     "timeWeek": 549,
-    "timeMonth": 582,
+    "timeMonth": 583,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2025-01-31": 27,
