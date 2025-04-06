@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 404,
-    "timeDay": 204,
-    "timeWeek": 325,
-    "timeMonth": 363,
+    "time": 405,
+    "timeDay": 463,
+    "timeWeek": 345,
+    "timeMonth": 362,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2024-12-29": 39,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 294,
-    "timeDay": 212,
-    "timeWeek": 273,
-    "timeMonth": 288,
-    "timeYear": 298,
+    "timeDay": 364,
+    "timeWeek": 289,
+    "timeMonth": 290,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-01-31": 28,
       "2025-01-20": 18,
@@ -58,8 +58,7 @@
       "2024-06-12": 17,
       "2024-05-12": 41,
       "2024-05-02": 56,
-      "2024-04-23": 160,
-      "2024-04-06": 10
+      "2024-04-23": 160
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 325,
-    "timeDay": 231,
-    "timeWeek": 268,
-    "timeMonth": 309,
-    "timeYear": 341,
+    "timeDay": 306,
+    "timeWeek": 277,
+    "timeMonth": 307,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2025-02-26": 59,
       "2025-01-31": 27,
@@ -104,8 +103,7 @@
       "2024-05-02": 65,
       "2024-04-23": 160,
       "2024-04-19": 11,
-      "2024-04-09": 10,
-      "2024-04-06": 57
+      "2024-04-09": 10
     }
   },
   {
@@ -114,15 +112,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.37%",
     "time": 610,
-    "timeDay": 502,
-    "timeWeek": 521,
-    "timeMonth": 565,
+    "timeDay": 590,
+    "timeWeek": 540,
+    "timeMonth": 566,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2025-01-31": 27,
@@ -167,8 +165,7 @@
       "2024-04-23": 159,
       "2024-04-20": 10,
       "2024-04-19": 11,
-      "2024-04-09": 10,
-      "2024-04-06": 67
+      "2024-04-09": 10
     }
   }
 ]
