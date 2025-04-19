@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 408,
-    "timeDay": 465,
-    "timeWeek": 427,
+    "timeDay": 474,
+    "timeWeek": 462,
     "timeMonth": 385,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 302,
-    "timeDay": 368,
-    "timeWeek": 332,
-    "timeMonth": 424,
+    "timeDay": 297,
+    "timeWeek": 342,
+    "timeMonth": 423,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-01-31": 28,
@@ -67,15 +67,15 @@
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "mac-manager-portal-macalegin-com",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 328,
-    "timeDay": 381,
-    "timeWeek": 360,
-    "timeMonth": 314,
+    "time": 327,
+    "timeDay": 254,
+    "timeWeek": 355,
+    "timeMonth": 312,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-02-26": 59,
@@ -101,8 +101,7 @@
       "2024-05-12": 41,
       "2024-05-08": 10,
       "2024-05-02": 65,
-      "2024-04-23": 160,
-      "2024-04-19": 11
+      "2024-04-23": 160
     }
   },
   {
@@ -117,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.38%",
     "time": 611,
-    "timeDay": 653,
-    "timeWeek": 627,
-    "timeMonth": 573,
+    "timeDay": 540,
+    "timeWeek": 633,
+    "timeMonth": 570,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-01-31": 27,
@@ -162,8 +161,7 @@
       "2024-05-02": 85,
       "2024-04-26": 19,
       "2024-04-23": 159,
-      "2024-04-20": 10,
-      "2024-04-19": 11
+      "2024-04-20": 10
     }
   }
 ]
