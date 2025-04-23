@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 410,
-    "timeDay": 433,
-    "timeWeek": 467,
-    "timeMonth": 388,
+    "time": 409,
+    "timeDay": 245,
+    "timeWeek": 438,
+    "timeMonth": 385,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-04-15": 20,
@@ -24,8 +24,7 @@
       "2024-11-09": 36,
       "2024-10-08": 83,
       "2024-10-06": 20,
-      "2024-06-09": 87,
-      "2024-04-23": 22
+      "2024-06-09": 87
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 303,
-    "timeDay": 277,
-    "timeWeek": 331,
-    "timeMonth": 424,
+    "timeDay": 225,
+    "timeWeek": 312,
+    "timeMonth": 421,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-01-31": 28,
@@ -57,8 +56,7 @@
       "2024-07-01": 30,
       "2024-06-12": 17,
       "2024-05-12": 41,
-      "2024-05-02": 56,
-      "2024-04-23": 160
+      "2024-05-02": 56
     }
   },
   {
@@ -73,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 328,
-    "timeDay": 223,
-    "timeWeek": 320,
-    "timeMonth": 310,
+    "timeDay": 285,
+    "timeWeek": 311,
+    "timeMonth": 309,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-02-26": 59,
@@ -100,8 +98,7 @@
       "2024-07-01": 29,
       "2024-05-12": 41,
       "2024-05-08": 10,
-      "2024-05-02": 65,
-      "2024-04-23": 160
+      "2024-05-02": 65
     }
   },
   {
@@ -110,14 +107,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.39%",
     "time": 612,
-    "timeDay": 521,
-    "timeWeek": 598,
+    "timeDay": 519,
+    "timeWeek": 576,
     "timeMonth": 567,
     "timeYear": 636,
     "dailyMinutesDown": {
@@ -159,8 +156,7 @@
       "2024-05-12": 41,
       "2024-05-08": 10,
       "2024-05-02": 85,
-      "2024-04-26": 19,
-      "2024-04-23": 159
+      "2024-04-26": 19
     }
   }
 ]
