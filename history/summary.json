@@ -6,17 +6,16 @@
     "slug": "website-www-macaleginelectronics-com",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 411,
-    "timeDay": 485,
-    "timeWeek": 421,
-    "timeMonth": 400,
+    "time": 410,
+    "timeDay": 468,
+    "timeWeek": 407,
+    "timeMonth": 398,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-04-25": 10,
       "2025-04-15": 20,
       "2024-12-29": 39,
       "2024-12-21": 27,
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 303,
-    "timeDay": 232,
-    "timeWeek": 276,
-    "timeMonth": 419,
+    "timeDay": 249,
+    "timeWeek": 269,
+    "timeMonth": 417,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-01-31": 28,
@@ -72,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 328,
-    "timeDay": 237,
-    "timeWeek": 272,
+    "timeDay": 345,
+    "timeWeek": 285,
     "timeMonth": 308,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -114,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
     "time": 612,
-    "timeDay": 485,
-    "timeWeek": 525,
-    "timeMonth": 566,
+    "timeDay": 507,
+    "timeWeek": 520,
+    "timeMonth": 562,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-01-31": 27,
@@ -156,8 +155,7 @@
       "2024-06-08": 20,
       "2024-05-12": 41,
       "2024-05-08": 10,
-      "2024-05-02": 85,
-      "2024-04-26": 19
+      "2024-05-02": 85
     }
   }
 ]
