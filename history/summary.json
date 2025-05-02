@@ -4,19 +4,18 @@
     "url": "https://www.macaleginelectronics.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "website-www-macaleginelectronics-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 408,
-    "timeDay": 2226,
-    "timeWeek": 607,
-    "timeMonth": 467,
-    "timeYear": 428,
+    "time": 409,
+    "timeDay": 510,
+    "timeWeek": 608,
+    "timeMonth": 476,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-05-01": 11,
       "2025-04-26": 20,
       "2025-04-15": 20,
       "2024-12-29": 39,
@@ -41,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 303,
-    "timeDay": 350,
-    "timeWeek": 278,
-    "timeMonth": 422,
+    "timeDay": 369,
+    "timeWeek": 295,
+    "timeMonth": 425,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-01-31": 28,
@@ -57,8 +56,7 @@
       "2024-10-17": 16,
       "2024-07-01": 30,
       "2024-06-12": 17,
-      "2024-05-12": 41,
-      "2024-05-02": 56
+      "2024-05-12": 41
     }
   },
   {
@@ -72,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 329,
-    "timeDay": 359,
-    "timeWeek": 294,
-    "timeMonth": 309,
+    "time": 330,
+    "timeDay": 383,
+    "timeWeek": 312,
+    "timeMonth": 313,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-02-26": 59,
@@ -99,8 +97,7 @@
       "2024-08-07": 544,
       "2024-07-01": 29,
       "2024-05-12": 41,
-      "2024-05-08": 10,
-      "2024-05-02": 65
+      "2024-05-08": 10
     }
   },
   {
@@ -109,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
-    "time": 614,
-    "timeDay": 631,
-    "timeWeek": 548,
-    "timeMonth": 572,
+    "time": 613,
+    "timeDay": 652,
+    "timeWeek": 572,
+    "timeMonth": 576,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2025-01-31": 27,
@@ -156,8 +153,7 @@
       "2024-07-01": 29,
       "2024-06-08": 20,
       "2024-05-12": 41,
-      "2024-05-08": 10,
-      "2024-05-02": 85
+      "2024-05-08": 10
     }
   }
 ]
