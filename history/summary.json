@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 423,
-    "timeDay": 568,
-    "timeWeek": 362,
-    "timeMonth": 392,
+    "timeDay": 154,
+    "timeWeek": 311,
+    "timeMonth": 391,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-10-01": 16,
@@ -42,9 +42,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 306,
-    "timeDay": 385,
-    "timeWeek": 299,
-    "timeMonth": 293,
+    "timeDay": 234,
+    "timeWeek": 281,
+    "timeMonth": 294,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-10-14": 17,
@@ -57,8 +57,7 @@
       "2024-12-03": 86,
       "2024-11-15": 19,
       "2024-10-29": 17,
-      "2024-10-22": 17,
-      "2024-10-17": 16
+      "2024-10-22": 17
     }
   },
   {
@@ -73,8 +72,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.80%",
     "time": 342,
-    "timeDay": 322,
-    "timeWeek": 267,
+    "timeDay": 218,
+    "timeWeek": 257,
     "timeMonth": 292,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -96,8 +95,7 @@
       "2024-11-26": 93,
       "2024-11-25": 192,
       "2024-11-15": 18,
-      "2024-10-29": 16,
-      "2024-10-17": 16
+      "2024-10-29": 16
     }
   },
   {
@@ -106,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "97.36%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "95.15%",
-    "time": 619,
-    "timeDay": 588,
-    "timeWeek": 521,
-    "timeMonth": 534,
+    "time": 620,
+    "timeDay": 476,
+    "timeWeek": 508,
+    "timeMonth": 533,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-10-14": 16,
@@ -151,8 +149,7 @@
       "2024-11-14": 461,
       "2024-11-06": 258,
       "2024-11-05": 122,
-      "2024-10-29": 16,
-      "2024-10-17": 16
+      "2024-10-29": 16
     }
   }
 ]
