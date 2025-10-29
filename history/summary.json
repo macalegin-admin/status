@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 421,
-    "timeDay": 460,
-    "timeWeek": 326,
-    "timeMonth": 374,
+    "time": 419,
+    "timeDay": 320,
+    "timeWeek": 315,
+    "timeMonth": 371,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2025-10-01": 16,
@@ -42,10 +42,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 306,
-    "timeDay": 358,
-    "timeWeek": 291,
-    "timeMonth": 281,
-    "timeYear": 310,
+    "timeDay": 163,
+    "timeWeek": 282,
+    "timeMonth": 277,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-10-14": 17,
       "2025-09-23": 17,
@@ -55,8 +55,7 @@
       "2025-01-03": 25,
       "2024-12-20": 94,
       "2024-12-03": 86,
-      "2024-11-15": 19,
-      "2024-10-29": 17
+      "2024-11-15": 19
     }
   },
   {
@@ -71,10 +70,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
     "time": 343,
-    "timeDay": 357,
-    "timeWeek": 288,
-    "timeMonth": 275,
-    "timeYear": 360,
+    "timeDay": 187,
+    "timeWeek": 283,
+    "timeMonth": 270,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-10-14": 17,
       "2025-09-27": 16,
@@ -93,8 +92,7 @@
       "2024-11-27": 187,
       "2024-11-26": 93,
       "2024-11-25": 192,
-      "2024-11-15": 18,
-      "2024-10-29": 16
+      "2024-11-15": 18
     }
   },
   {
@@ -103,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.macalegin.com.ico",
     "slug": "cloud-storage-cloud-macalegin-com",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "95.15%",
     "time": 620,
-    "timeDay": 542,
-    "timeWeek": 508,
-    "timeMonth": 516,
-    "timeYear": 636,
+    "timeDay": 375,
+    "timeWeek": 495,
+    "timeMonth": 510,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-10-14": 16,
       "2025-09-27": 16,
@@ -147,8 +145,7 @@
       "2024-11-15": 1159,
       "2024-11-14": 461,
       "2024-11-06": 258,
-      "2024-11-05": 122,
-      "2024-10-29": 16
+      "2024-11-05": 122
     }
   }
 ]
