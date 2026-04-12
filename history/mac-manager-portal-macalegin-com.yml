@@ -1,7 +1,7 @@
 url: https://portal.macalegin.com
-status: up
-code: 200
-responseTime: 350
-lastUpdated: 2026-04-12T18:26:15.143Z
+status: down
+code: 502
+responseTime: 315
+lastUpdated: 2026-04-12T19:51:43.494Z
 startTime: 2023-08-18T05:24:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
