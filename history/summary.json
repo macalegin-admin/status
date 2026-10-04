@@ -5,11 +5,11 @@
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "website-www-macaleginelectronics-com",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "88.66%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.84%",
     "time": 373,
     "timeDay": 0,
     "timeWeek": 389,
@@ -28,7 +28,8 @@
       "2026-09-11": 120,
       "2026-09-17": 19,
       "2026-09-19": 55,
-      "2026-09-18": 43
+      "2026-09-18": 43,
+      "2026-10-04": 163
     }
   },
   {
