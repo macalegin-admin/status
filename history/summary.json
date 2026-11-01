@@ -4,16 +4,16 @@
     "url": "https://www.macaleginelectronics.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "website-www-macaleginelectronics-com",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "89.47%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.78%",
-    "time": 373,
-    "timeDay": 327,
-    "timeWeek": 330,
-    "timeMonth": 426,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "71.18%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.73%",
+    "time": 372,
+    "timeDay": 318,
+    "timeWeek": 328,
+    "timeMonth": 423,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-11-14": 24,
@@ -30,7 +30,7 @@
       "2026-09-19": 55,
       "2026-09-18": 43,
       "2026-10-04": 328,
-      "2026-11-01": 152
+      "2026-11-01": 415
     }
   },
   {
