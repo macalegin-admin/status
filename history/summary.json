@@ -6,10 +6,10 @@
     "slug": "website-www-macaleginelectronics-com",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.78%",
     "time": 373,
     "timeDay": 327,
     "timeWeek": 330,
@@ -29,7 +29,8 @@
       "2026-09-17": 19,
       "2026-09-19": 55,
       "2026-09-18": 43,
-      "2026-10-04": 328
+      "2026-10-04": 328,
+      "2026-11-01": 152
     }
   },
   {
