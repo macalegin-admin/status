@@ -4,9 +4,9 @@
     "url": "https://www.macaleginelectronics.com",
     "icon": "https://www.macaleginelectronics.com/favicon.ico",
     "slug": "website-www-macaleginelectronics-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.73%",
@@ -30,7 +30,8 @@
       "2026-09-19": 55,
       "2026-09-18": 43,
       "2026-10-04": 328,
-      "2026-11-01": 415
+      "2026-11-01": 415,
+      "2026-11-12": 0
     }
   },
   {
